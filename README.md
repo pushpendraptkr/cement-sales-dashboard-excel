@@ -18,7 +18,7 @@ Develop an Excel dashboard to track KPIs and identify sales trends.
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](cmnt-sales-3-years.png)
 
 ## Key KPIs
 - Total Revenue
