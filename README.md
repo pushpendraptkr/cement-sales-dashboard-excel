@@ -27,9 +27,21 @@ Develop an Excel dashboard to track KPIs and identify sales trends.
 - Best Performing Region
 
 ## Business Insights
-- Identified top-performing regions
-- Monitored monthly sales growth
-- Compared product performance
+
+- Rajasthan generated the highest revenue.
+- Satna Unit delivered the strongest plant performance.
+- OPC cement contributed the highest revenue share.
+- Revenue showed consistent growth from 2022 to 2024.
+- Average selling price remained above ₹5,500 per tonne.
+  
+## Business Impact
+
+This dashboard enables management to:
+- Monitor sales performance
+- Track plant productivity
+- Compare regional revenue
+- Identify growth opportunities
+- Support data-driven decisions
 
 ## Skills Demonstrated
 - Data Cleaning
